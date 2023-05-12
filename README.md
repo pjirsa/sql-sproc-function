@@ -1,0 +1,2 @@
+# SQL SPROC Functions
+Examples of working with SQL bindings, triggers, and direct ADO.NET connections in Azure Functions. These samples are based on code located in [https://github.com/Azure/azure-functions-sql-extension](https://github.com/Azure/azure-functions-sql-extension).

@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "sql_sproc_function": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7075",
+      "launchBrowser": false
+    }
+  }
+}

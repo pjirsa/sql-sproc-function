@@ -1,0 +1,11 @@
+POST http://localhost:7071/api/CallSproc
+Content-Type: application/json
+
+{
+    "Msg": "Hello from Gary!"
+}
+
+###
+
+GET http://localhost:7071/api/getandaddproducts/3
+
