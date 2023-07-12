@@ -1,4 +1,6 @@
 # SQL with Azure Functions
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/pjirsa/sql-sproc-function)
+
 Examples of working with SQL bindings, triggers, and direct ADO.NET connections in Azure Functions. These samples are based on code located in [https://github.com/Azure/azure-functions-sql-extension](https://github.com/Azure/azure-functions-sql-extension).
 
 ## Try It
